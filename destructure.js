@@ -9,4 +9,5 @@
 // console.log(gfName, phone);
 
 
-const friends = ['Sajal Khan', 'Munna Khan', 'Jannat', 'Ratul']
+const friends = ['Sajal Khan', 'Munna Khan', 'Jannat', 'Ratul'];
+const [chotoFriend, nextFriend] = friends;
